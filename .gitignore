@@ -105,3 +105,6 @@ venv.bak/
 
 # test files
 test_df.py
+
+# OS files
+*.DS_Store
